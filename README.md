@@ -42,4 +42,4 @@ Download the gitignore.sh into your repository and execute it:
 sh gitignore.sh
 ```
 
-If you have any questions or feedback, please feel free to contact, or even follow me ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social)
+If you have any questions or feedback, please feel free to contact, or even follow me ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social) 🙂
