@@ -1,7 +1,12 @@
 # gitignore.sh
-For whenever you have committed files that you actually want to ignore from now on and want them removed from your repo, this little Shell Script is here for you 🙂
+What gitignore.sh can do for you:
+For whenever you have committed files to your remote repository that you actually want to ignore from now on, and also want them removed from your repo in one go, this little Shell Script is here for you 🙂
 
-On your local machine, open your terminal and then copy and paste the following as a whole:
+## Installation
+
+### Option 1: Copy and paste
+
+Open your terminal, cd into your local repo and then copy and paste the following code as a whole into your terminal:
 
 ```
 # 1.
@@ -23,6 +28,11 @@ git push
 # 5. Have a good day!
 ```
 
+### Option 2: Download the gitignore.sh
 
+Download the gitignore.sh into your repository and execute it:
 
+```
+sh gitignore.sh
+```
 
